@@ -1,0 +1,77 @@
+body {
+  font-family: Courier;
+  background-color: #fffaed;
+}
+form, h2 {
+  margin: 15px auto;
+  text-align: center;
+}
+
+.form-group, .btn-primary {
+  display: inline-block;
+  width: auto;
+  margin-left: 10px;
+}
+
+.btn-primary {
+  color: white;
+  background-color: black;
+  padding: 2px;
+  font-size: 16px;
+}
+
+.form-control {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 36px;
+  padding: 5px;
+  font-weight: 800px;
+}
+
+ul {
+  list-style: none;
+  width: 85%;
+  margin: 0px auto;
+  /*text-align: center;*/
+}
+
+.article-li {
+  padding: 10px;
+  margin: 5px;
+  background-color: #ded5b3;
+  border-radius: 10px;
+  display: inline-block;
+  width: 45%;
+  vertical-align: middle;
+  height: 240px;
+}
+
+.article-li:nth-child(odd) {
+  background-color: #9af6eb;
+}
+
+.article-li:nth-child(even) {
+  background-color: #9ff08c;
+}
+
+.NYT-link {
+  display: block;
+  font-size: 24px;
+  color: black;
+  text-decoration: none;
+  font-weight: 800px;
+}
+
+.NYT-link:visited {
+  color: gray;
+}
+
+.pub-date {
+  display: inline-block;
+}
+
+.lead {
+  display: block;
+}
