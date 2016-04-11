@@ -3,6 +3,8 @@
 ##Description
 This application allows the user to enter a date and see the top ten headlines from that day's *New York Times*. Though the app is built on Rails, there is no database or models -- the bulk of the action takes place on the front end, which is built with the React JS framework. You can visit the live site at <http://historic-headlines.herokuapp.com/>.
 
+![screenshot](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ##Technologies Used
 * Rails
 * React JS
