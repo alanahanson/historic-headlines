@@ -75,3 +75,11 @@ ul {
 .lead {
   display: block;
 }
+
+#main {
+  min-height: 90vh;
+}
+
+footer {
+  bottom: 5px;
+}
